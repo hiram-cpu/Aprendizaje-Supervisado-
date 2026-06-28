@@ -25,5 +25,11 @@ Para superar con éxito ambos niveles, el entorno fue equipado con el siguiente 
 * 🔮 **`scikit-learn`** - El motor principal de Machine Learning. Se utilizó para la separación de conjuntos de entrenamiento/prueba (`train_test_split`), el entrenamiento de los algoritmos de clasificación y el cálculo de métricas de rendimiento (Accuracy, Precision, Recall).
 * 📈 **`ydata-profiling` / `data-profiling`** - Utilizada para la generación automática de reportes analíticos de salud detallados en formato HTML, optimizando la fase de exploración inicial.
 
+## 📊 Obtención de los Datos (Datasets)
+
+Debido a las restricciones de tamaño de GitHub para archivos grandes, los conjuntos de datos originales utilizados en este proyecto no se encuentran alojados directamente en este repositorio. 
+
+Puedes descargarlos ingresando al siguiente enlace:
+👉 **[Carpeta de Datos en Google Drive](https://drive.google.com/drive/folders/11aJJMgBpiq0Jm0sXeGsLc1MXDMK8Fk-5?usp=drive_link)**
 ---
 *Desarrollado con dedicación para dominar las bases del Machine Learning.* 🚀
